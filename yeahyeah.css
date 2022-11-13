@@ -60,6 +60,11 @@
 }
 /* VERSION INFO */
 
+/* --== Change font ==-- */
+html, body {
+  font-family: 'Uni Sans', monospace;
+}
+
 /* --== Add CRT effect ==-- */
 html,body::before, .root-2zfUH6::before,
 .standardSidebarView-E9Pc3j::before, .userPopout-2j1gM4::before,
