@@ -1,0 +1,13 @@
+:root {
+    --surCordBackground: rgb(65,48,36);
+    --surCordBackground2: rgb(83,58,40);
+    --surCordTextBackground: rgb(51,36,26);
+    --surcordFriendsBackground: rgb(65,48,36);
+    --surCordFriends: rgb(106,81,57);
+    --surCordActiveNow: rgb(33, 2, 1, .276);
+    --surCordGuilds: rgb(106,81,57);
+    --surCordTitleBar: rgb(65,48,36);
+    --surCordSearch: rgb(83,58,40);
+    --surCordHover: rgba(106,81,57, 0.2);
+    --surCordBorder: rgb(78,78,81);
+  }
